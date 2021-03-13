@@ -30,7 +30,7 @@
         Ammo_57x28,             *, 1,       45,      22
         Ammo_57x28AP,           *, 1,       55,      27
         Ammo_9x18,              *, 1,       8,       4
-        Ammo_AACBLK             *, 1,       40,      20
+        Ammo_AACBLK,            *, 1,       40,      20
 
         // When changing Prices here keep in Mind that Players
         // can just unpack the Ammoboxes and sell the Ammo seperatly!
@@ -59,7 +59,7 @@
         57x28_AmmoBox_25rnd,            *, *,      1125,    562
         57x28AP_AmmoBox_25rnd,          *, *,      1375,    687
         9x18_AmmoBox_35rnd,             *, *,      280,     140
-        AACBLK_AmmoBox_20rnd            *, *,      600,     300
+        AACBLK_AmmoBox_20rnd,           *, *,      600,     300
         
     <Category> Magazines
         Mag_CZ75_15Rnd,                         *, M,       1000,     500
@@ -289,6 +289,7 @@
         
     <Category> Flashlights
         Universallight,         *, *,      500,    250
+        TLRLight,               *, *,      2000,   1000
 
 <OpenFile> z_Clothing.txt			// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
