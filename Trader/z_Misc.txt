@@ -44,6 +44,9 @@
         BaseRadio,              *, *,      80000,     8000
         Rangefinder,            *, *,      600,     350
         NVGoggles,              *, *,      30000,    7000
+
+    <Category> Communication
+        ItemPDA,                *, *,      15000,    -1
     
     <Category> Fire & Lights
         Chemlight_Blue,         *, *,      20,      10
