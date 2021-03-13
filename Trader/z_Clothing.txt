@@ -634,11 +634,11 @@
         FMDMountBagMtrop3, M Trop - 300 slots, *, 65, 20
         FMDMountBagMBlack3, M Black - 300 slots, *, 65, 20
         FMDMountBagDesertS3, Desert S - 300 slots, *, 65, 20
-        FMDMountBagCP3, *, CP - 300 slots, 65, 20
+        FMDMountBagCP3, CP - 300 slots, *, 65, 20
         FMDMountBagBlack3, Black - 300 slots, *, 65, 20
-        FMDMountBagAT3, *, AT - 300 slots, 65, 20
-        FMDMountBagATU3, *, ATU - 300 slots, 65, 20
-        FMDMountBag50RUS3, *, 50 RUS - 300 slots, 65, 20
+        FMDMountBagAT3, AT - 300 slots, *, 65, 20
+        FMDMountBagATU3, ATU - 300 slots, *, 65, 20
+        FMDMountBag50RUS3, 50 RUS - 300 slots, *, 65, 20
 
 
 <OpenFile> z_Vehicles.txt			// Links to another File; Must be right above <FileEnd>!
