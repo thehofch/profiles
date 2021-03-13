@@ -120,9 +120,9 @@
         FOX_Mag_FN57_30Rnd,                     *, M,       3000,     1500
         FOX_Mag_EVO,                            *, M,       1900,     950
         FOX_Mag_HK417_20rnd,                    *, M,       1500,     750
-        FOX_Mag_HK417_20rnd_Snow                *, M,       1500,     750
-        FOX_Mag_HK417_20rnd_Brown               *, M,       1500,     750
-        FOX_Mag_HK417_20rnd_Olive               *, M,       1500,     750
+        FOX_Mag_HK417_20rnd_Snow,               *, M,       1500,     750
+        FOX_Mag_HK417_20rnd_Brown,              *, M,       1500,     750
+        FOX_Mag_HK417_20rnd_Olive,              *, M,       1500,     750
         FOX_Mag_FAL_10rnd,                      *, M,       1500,     750
         FOX_Mag_FAL_20rnd,                      *, M,       2400,     1200
         FOX_Mag_FAL_30rnd,                      *, M,       3100,     750
@@ -130,41 +130,41 @@
         FOX_Mag_Stanag_60rnd_Black,             *, M,       4600,     2300
         
     <Category> Handguards
-        MP5_PlasticHndgrd,       *, *,      2000,   1000
-        MP5_RailHndgrd,          *, *,      2000,   1000
-        AK74_Hndgrd,             *, *,      2000,   1000
-        AK_WoodHndgrd,           *, *,      2000,   1000
-        AK_RailHndgrd,           *, *,      2000,   1000
-        AK_PlasticHndgrd,        *, *,      2000,   1000
-        M4_PlasticHndgrd,        *, *,      2000,   1000
-        M4_RISHndgrd,            *, *,      2000,   1000
-        M4_MPHndgrd,             *, *,      2000,   1000
-        FOX_AKS74U_hndgrd,       *, *,      2000,   1000
-        FOX_AKS74URIS_hndgrd,    *, *,      2000,   1000
-        FOX_SVD_hndgrd,          *, *,      2000,   1000
-        FOX_SVD_hndgrd_green     *, *,      2000,   1000
-        FOX_SVDS_hndgrd_camo     *, *,      2000,   1000
-        FOX_SVDS_hndgrd_camo_wnr *, *,      2000,   1000
-        FOX_SVDS_hndgrd,         *, *,      2000,   1000
-        FOX_EVO_hndgrd,          *, *,      2000,   1000
-        FOX_M16A3_RIShndgrd,     *, *,      2000,   1000
-        FOX_HK416A7_hndgrd,      *, *,      2000,   1000
-        FOX_HK416A7_hndgrd_smr   *, *,      2000,   1000
-        FOX_HK416A7_hndgrd_atn   *, *,      2000,   1000
-        FOX_HK416A7_hndgrd_wnr   *, *,      2000,   1000
-        FOX_HK416D_hndgrd_sand   *, *,      2000,   1000
-        FOX_HK416D_hndgrd_olive  *, *,      2000,   1000
-        FOX_HK416D_hndgrd_snow   *, *,      2000,   1000
-        FOX_M16A3_hndgrd,        *, *,      2000,   1000
-        FOX_HK416D_hndgrd,       *, *,      2000,   1000
-        FOX_HK417_hndgrd,        *, *,      2000,   1000
-        FOX_HK417_hndgrd_tan     *, *,      2000,   1000
-        FOX_HK417_hndgrd_olive   *, *,      2000,   1000
-        FOX_HK417_hndgrd_snow    *, *,      2000,   1000
-        FOX_FNFAL_hndgrd,        *, *,      2000,   1000
-        FOX_FNFAL_hndgrd_rail,   *, *,      2000,   1000
-        FOX_FNFAL_hndgrd_para,   *, *,      2000,   1000
-        FOX_HB_hndgrd,           *, *,      2000,   1000
+        MP5_PlasticHndgrd,            *, *,      2000,   1000
+        MP5_RailHndgrd,               *, *,      2000,   1000
+        AK74_Hndgrd,                  *, *,      2000,   1000
+        AK_WoodHndgrd,                *, *,      2000,   1000
+        AK_RailHndgrd,                *, *,      2000,   1000
+        AK_PlasticHndgrd,             *, *,      2000,   1000
+        M4_PlasticHndgrd,             *, *,      2000,   1000
+        M4_RISHndgrd,                 *, *,      2000,   1000
+        M4_MPHndgrd,                  *, *,      2000,   1000
+        FOX_AKS74U_hndgrd,            *, *,      2000,   1000
+        FOX_AKS74URIS_hndgrd,         *, *,      2000,   1000
+        FOX_SVD_hndgrd,               *, *,      2000,   1000
+        FOX_SVD_hndgrd_green,         *, *,      2000,   1000
+        FOX_SVDS_hndgrd_camo,         *, *,      2000,   1000
+        FOX_SVDS_hndgrd_camo_wnr,     *, *,      2000,   1000
+        FOX_SVDS_hndgrd,              *, *,      2000,   1000
+        FOX_EVO_hndgrd,               *, *,      2000,   1000
+        FOX_M16A3_RIShndgrd,          *, *,      2000,   1000
+        FOX_HK416A7_hndgrd,           *, *,      2000,   1000
+        FOX_HK416A7_hndgrd_smr,       *, *,      2000,   1000
+        FOX_HK416A7_hndgrd_atn,       *, *,      2000,   1000
+        FOX_HK416A7_hndgrd_wnr,       *, *,      2000,   1000
+        FOX_HK416D_hndgrd_sand,       *, *,      2000,   1000
+        FOX_HK416D_hndgrd_olive,      *, *,      2000,   1000
+        FOX_HK416D_hndgrd_snow,       *, *,      2000,   1000
+        FOX_M16A3_hndgrd,             *, *,      2000,   1000
+        FOX_HK416D_hndgrd,            *, *,      2000,   1000
+        FOX_HK417_hndgrd,             *, *,      2000,   1000
+        FOX_HK417_hndgrd_tan,         *, *,      2000,   1000
+        FOX_HK417_hndgrd_olive,       *, *,      2000,   1000
+        FOX_HK417_hndgrd_snow,        *, *,      2000,   1000
+        FOX_FNFAL_hndgrd,             *, *,      2000,   1000
+        FOX_FNFAL_hndgrd_rail,        *, *,      2000,   1000
+        FOX_FNFAL_hndgrd_para,        *, *,      2000,   1000
+        FOX_HB_hndgrd,                *, *,      2000,   1000
 
     <Category> Buttstocks
         MP5k_StockBttstck,              *, *,       3000,    1500
@@ -185,17 +185,17 @@
         FOX_AK_BttstckTac,              *, *,       3000,    1500
         FOX_EVO_Bttstck,                *, *,       3000,    1500
         FOX_HK416A7_Bttstck,            *, *,       3000,    1500
-        FOX_HK416A7_Bttstck_camo_atn    *, *,       3000,    1500
-        FOX_HK416A7_Bttstck_camo_wnr    *, *,       3000,    1500
-        FOX_HK416A7_Bttstck_camo_smr    *, *,       3000,    1500
+        FOX_HK416A7_Bttstck_camo_atn,   *, *,       3000,    1500
+        FOX_HK416A7_Bttstck_camo_wnr,   *, *,       3000,    1500
+        FOX_HK416A7_Bttstck_camo_smr,   *, *,       3000,    1500
         FOX_HK416D_Bttstck,             *, *,       3000,    1500
-        FOX_HK416D_Bttstck_sand         *, *,       3000,    1500
-        FOX_HK416D_Bttstck_olive        *, *,       3000,    1500
-        FOX_HK416D_Bttstck_snow         *, *,       3000,    1500
+        FOX_HK416D_Bttstck_sand,        *, *,       3000,    1500
+        FOX_HK416D_Bttstck_olive,       *, *,       3000,    1500
+        FOX_HK416D_Bttstck_snow,        *, *,       3000,    1500
         FOX_HK417_Bttstck,              *, *,       3000,    1500
-        FOX_HK417_Bttstck_tan           *, *,       3000,    1500
-        FOX_HK417_Bttstck_olive         *, *,       3000,    1500
-        FOX_HK417_Bttstck_snow          *, *,       3000,    1500
+        FOX_HK417_Bttstck_tan,          *, *,       3000,    1500
+        FOX_HK417_Bttstck_olive,        *, *,       3000,    1500
+        FOX_HK417_Bttstck_snow,         *, *,       3000,    1500
         FOX_FNFAL_Bttstck,              *, *,       3000,    1500
         FOX_FNFAL_BttstckPara,          *, *,       3000,    1500
         FOX_FNFAL_BttstckPolimer,       *, *,       3000,    1500
@@ -257,23 +257,23 @@
         AD_RMR_TM_B13,                      *, *, 26000, 12000 
    
     <Category> Supressors
-        PistolSuppressor,               *,      *,      150,    75
-        AK_Suppressor,                  *,      *,      250,    125
-        M4_Suppressor,                  *,      *,      250,    125
-        KOD_M82A2_Suppressor_Black,     *,      *,		2500,   1000
-        KOD_M82A2_Suppressor_Tan,       *,      *,		2500,   1000
-        KOD_M82A2_Suppressor_Grey,      *,      *,      2500,   1000
-        KOD_AWM_Suppressor,             *,      *,      2500,   1000
-        KOD_Suppressor_308,             *,      *,      2500,   1000
-        FOX_APS_Suppressor,             *,      *,      1500,   600
-        FOX_VSS_Suppressor,             *,      *,      1500,   600
-        FOX_SVD_Suppressor,             *,      *,      1500,   600
-        FOX_308_Suppressor,             *,      *,      1500,   600
-        FOX_HB_Suppressor,              *,      *,      1500,   600
+        PistolSuppressor,               *,      *,      1000,     500
+        AK_Suppressor,                  *,      *,      2000,     1000
+        M4_Suppressor,                  *,      *,      2000,     1000
+        KOD_M82A2_Suppressor_Black,     *,      *,		2500,     1250
+        KOD_M82A2_Suppressor_Tan,       *,      *,		2500,     1250
+        KOD_M82A2_Suppressor_Grey,      *,      *,      2500,     1250
+        KOD_AWM_Suppressor,             *,      *,      2500,     1250
+        KOD_Suppressor_308,             *,      *,      2500,     1250
+        FOX_APS_Suppressor,             *,      *,      1500,     750
+        FOX_VSS_Suppressor,             *,      *,      1500,     750
+        FOX_SVD_Suppressor,             *,      *,      1500,     750
+        FOX_308_Suppressor,             *,      *,      1500,     750
+        FOX_HB_Suppressor,              *,      *,      1500,     750
         
     <Category> Compensators
-        Mosin_Compensator,      *, *,     150,    75
-        MP5_Compensator,        *, *,     200,    100
+        Mosin_Compensator,      *, *,     500,    250
+        MP5_Compensator,        *, *,     500,    250
 
     <Category> Bayonets
         Mosin_Bayonet,          *, *,     2000,    1000
