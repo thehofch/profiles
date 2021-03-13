@@ -1,121 +1,135 @@
 <Trader> Weapon Trader
     <Category> Melee    
-        BrassKnuckles_Shiny,    *, W,      15,     6
-        StunBaton,              *, W,      15,     9
-        Pipe,                   *, W,      25,     10
-        CattleProd,             *, W,      25,     15
-        BaseballBat,            *, W,      35,     17
-        NailedBaseballBat,      *, W,      45,     20
+        BrassKnuckles_Shiny,    *, W,      1000,     500
+        StunBaton,              *, W,      1000,     500
+        Pipe,                   *, W,      1000,     500
+        CattleProd,             *, W,      1000,     500
+        BaseballBat,            *, W,      1000,     500
+        NailedBaseballBat,      *, W,      1000,     500
         
     <Category> Sidearms
-        Flaregun,               *, W,      80,     40
-        MakarovIJ70,            *, W,      100,    50
-        CZ75,                   *, W,      135,    70
-        FNX45,                  *, W,      175,    90
-        Glock19,                *, W,      300,    130
-        MKII,                   *, W,      320,    160
-        Colt1911,               *, W,      340,    180
-        Deagle,                 *, W,      340,    180
-        Engraved1911,           *, W,      340,    180
-        FOX_APS,                *, W,      5500,   550
-        FOX_PM,                 *, W,      5500,   550
-        FOX_MP443,              *, W,      5500,   550
-        FOX_FN57, *, W, 5500, 550
+        Flaregun,               *, W,      2000,   1000
+        MakarovIJ70,            *, W,      8000,   4000
+        CZ75,                   *, W,      6000,   3000
+        FNX45,                  *, W,      5000,   2500
+        Glock19,                *, W,      6000,   3000
+        MKII,                   *, W,      6000,   3000
+        Colt1911,               *, W,      9000,   4500
+        Deagle,                 *, W,      12000,  6000
+        Engraved1911,           *, W,      10000,  5000
+        FOX_APS,                *, W,      8000,   550
+        FOX_PM,                 *, W,      5000,   2500
+        FOX_MP443,              *, W,      8000,   4000
+        FOX_FN57,               *, W,      9000,   4500
         
     <Category> Rifles
-        Izh18,                  *, W,      350,    175
-        Mosin9130,              *, W,      400,    200
-        CZ527,                  *, W,      500,    250
-        Winchester70,           *, W,      500,    250
-        SKS,                    *, W,      600,    300
-        Ruger1022,              *, W,      600,    300
+        Izh18,                  *, W,      9000,   4500
+        Mosin9130,              *, W,      9000,   4500
+        CZ527,                  *, W,      9000,   4500
+        Winchester70,           *, W,      9000,   4500
+        SKS,                    *, W,      9000,   4500
+        Ruger1022,              *, W,      9000,   4500
 
         
     <Category> Shotguns
-        Mp133Shotgun,           *, W,      3000,    900
-        Izh43Shotgun,           *, W,      7000,    2000
-        Saiga,                  *, W,      10000,   3000
-        KOD_VR80,				*, W,	   15000,   7000
-		KOD_DrumShotgun,		*, W,	   12000,   5000
+        Mp133Shotgun,           *, W,      3000,    1500
+        Izh43Shotgun,           *, W,      7000,    3500
+        Saiga,                  *, W,      10000,   5000
+        KOD_VR80,				*, W,	   15000,   7500
+		KOD_DrumShotgun,		*, W,	   12000,   6000
         
     <Category> Submachine Guns
-        CZ61,                   *, W,      700,    300
-        UMP45,                  *, W,      800,    350
-        MP5K,                   *, W,      1000,   450 
-        AKS74U,                 *, W,      1100,   600
-        KOD_MP5SD,				*, W,	   20000,  8500
-        FOX_EVO,                *, W,      10000,  1100
-        FOX_HONEY_BADGER_SNOW,  *, W,      25000,  2500
-        FOX_HONEY_BADGER_TAN,   *, W,      25000,  2500
-        FOX_HONEY_BADGER_OLIVE, *, W,      25000,  2500
-        FOX_HONEY_BADGER,       *, W,      25000,  2500
+        CZ61,                   *, W,      16000,  8000
+        UMP45,                  *, W,      18000,  9000
+        MP5K,                   *, W,      23000,  11500 
+        AKS74U,                 *, W,      31000,  15500
+        KOD_MP5SD,				*, W,	   20000,  10000
+        FOX_EVO,                *, W,      10000,  5000
+        FOX_HONEY_BADGER_SNOW,  *, W,      25000,  12500
+        FOX_HONEY_BADGER_TAN,   *, W,      25000,  12500
+        FOX_HONEY_BADGER_OLIVE, *, W,      25000,  12500
+        FOX_HONEY_BADGER,       *, W,      25000,  12500
         
     <Category> Assault Rifles
-        FAL,                    *, W,      1000,       450
-        AKM,                    *, W,      1500,       750
-        AK101,                  *, W,      1500,       750
-        AK74,                   *, W,      1600,       750
-        M4A1,                   *, W,      1500,       750
-        FOX_ASVAL,              *, W,      15000,      1500
-        FOX_AKS74UN,            *, W,      15000,      1500
-        FOX_M16A3,              *, W,      15000,      1500
-        FOX_HK416A7,            *, W,      15000,      1500
-        FOX_HK416D,             *, W,      15000,      1500
-        FOX_HK416D_CQB,         *, W,      15000,      1500
-        FOX_HK417,              *, W,      25000,      2500
-        FOX_FNFAL,              *, W,      25000,      2500
-        FOX_FNFAL_TAC,          *, W,      25000,      2500
-        FOX_FNFAL_PARA,         *, W,      25000,      2500
-        KOD_AEK971,				*, W,  	   30000,      16000
-        KOD_AK47,				*, W,	   30000,      16000
-        KOD_AK15,				*, W,	   30000,      16000
-        KOD_AKALPHA,			*, W,	   30000,      16000
-        KOD_M16A4,				*, W,	   30000,      16000        
-		KOD_SKS,				*, W,	   30000,      16000
-		KOD_FAMAS,				*, W,	   30000,      16000
-        KOD_SCARH,              *, W,      30000,      16000
-        KOD_HK417,				*, W,	   30000,      16000
-        KOD_ASH12,				*, W,	   -1,         50000
+        FAL,                    *, W,      35000,       17500
+        AKM,                    *, W,      31000,       15500
+        AK101,                  *, W,      33300,       16650
+        AK74,                   *, W,      29000,       14500
+        M4A1,                   *, W,      30000,       15000
+        FOX_ASVAL,              *, W,      35000,       17500
+        FOX_AKS74UN,            *, W,      32000,       16000
+        FOX_M16A3,              *, W,      36000,       18000
+        FOX_HK416A7,            *, W,      38000,       19000
+        FOX_HK416A7_CAMO_AUTUMN *, W,      38000,       19000
+        FOX_HK416A7_CAMO_SUMMER *, W,      38000,       19000
+        FOX_HK416A7_CAMO_WINTER *, W,      38000,       19000
+        FOX_HK416D,             *, W,      36000,       18000
+        FOX_HK416D_SAND         *, W,      36000,       18000
+        FOX_HK416D_OLIVE        *, W,      36000,       18000
+        FOX_HK416D_SNOW         *, W,      36000,       18000
+        FOX_HK416D_CQB,         *, W,      38000,       19000
+        FOX_HK416D_CQB_SAND     *, W,      38000,       19000
+        FOX_HK416D_CQB_OLIVE    *, W,      38000,       19000
+        FOX_HK416D_CQB_SNOW     *, W,      38000,       19000
+        FOX_HK417,              *, W,      40000,       20000
+        FOX_HK417_BROWN         *, W,      40000,       20000
+        FOX_HK417_OLIVE         *, W,      40000,       20000
+        FOX_HK417_SNOW          *, W,      40000,       20000
+        FOX_FNFAL,              *, W,      38000,       19000
+        FOX_FNFAL_TAC,          *, W,      38000,       19000
+        FOX_FNFAL_PARA,         *, W,      38000,       19000
+        KOD_AEK971,				*, W,  	   32000,       16000
+        KOD_AK47,				*, W,	   32000,       16000
+        KOD_AK15,				*, W,	   32000,       16000
+        KOD_AKALPHA,			*, W,	   32000,       16000
+        KOD_M16A4,				*, W,	   32000,       16000        
+		KOD_SKS,				*, W,	   32000,       16000
+		KOD_FAMAS,				*, W,	   32000,       16000
+        KOD_SCARH,              *, W,      60000,       30000
+        KOD_ASH12,				*, W,	   -1,          100000
         
     <Category> Sniper Rifles
-        VSS,                    *, W,      1600,     960
-        B95,                    *, W,      1700,     1100
-        SVD,                    *, W,      2000,     1200
-        FOX_VSS, *, W, 25000, 2500
-        FOX_SVD, *, W, 28000, 2800
-        FOX_SVDM, *, W, 28000, 2800
-        KOD_K98,				*, W,      10000,    12000
-        KOD_M110_Tan,			*, W,	   25000,    12000
-        KOD_M110_Black,			*, W,	   25000,    12000
-        KOD_Beowulf,			*, W,	   25000,    12000
-        KOD_R700,				*, W,	   10000,    2500
-        KOD_AR15Skeleton,		*, W,	   25000,    12000 
-        KOD_AWM,                *, W,      -1,       50000
-        KOD_AX50,               *, W,      -1,       50000
-        KOD_DVL10,              *, W,      -1,       50000
-        KOD_DVL10M1,            *, W,      -1,       50000
-        KOD_M82A2_Grey,         *, W,      -1,       50000
-        KOD_M82A2_Black,        *, W,      -1,       50000
-        KOD_M82A2_Tan,          *, W,      -1,       50000
-        KOD_PKM,                *, W,      -1,       50000
-        KOD_RSASS_Tan,          *, W,      -1,       50000
-        KOD_RSASS_Black,        *, W,      -1,       50000
-        KOD_Ruger,              *, W,      -1,       50000
+        VSS,                    *, W,      30000,    15000
+        B95,                    *, W,      28000,    14000
+        SVD,                    *, W,      50000,    25000
+        FOX_VSS,                *, W,      30000,    15000
+        FOX_SVD,                *, W,      50000,    25000
+        FOX_SVD_GREEN,          *, W,      50000,    25000
+        FOX_SVDM,               *, W,      50000,    25000
+        FOX_SVDM_CAMO,          *, W,      50000,    25000
+        FOX_SVDM_CAMO_WINTER,   *, W,      50000,    25000
+        KOD_K98,				*, W,      10000,    5000
+        KOD_M110_Tan,			*, W,	   25000,    12500
+        KOD_M110_Black,			*, W,	   25000,    12500
+        KOD_Beowulf,			*, W,	   25000,    12500
+        KOD_R700,				*, W,	   10000,    5000
+        KOD_AR15Skeleton,		*, W,	   25000,    12500 
+        KOD_AWM,                *, W,      -1,       100000
+        KOD_AX50,               *, W,      -1,       100000
+        KOD_DVL10,              *, W,      -1,       100000
+        KOD_DVL10M1,            *, W,      -1,       100000
+        KOD_M82A2_Grey,         *, W,      -1,       100000
+        KOD_M82A2_Black,        *, W,      -1,       100000
+        KOD_M82A2_Tan,          *, W,      -1,       100000
+        KOD_PKM,                *, W,      -1,       100000
+        KOD_RSASS_Tan,          *, W,      -1,       100000
+        KOD_RSASS_Black,        *, W,      -1,       100000
+        KOD_Ruger,              *, W,      -1,       100000
 
     <Category> M-Guns
         KOD_RPK16,				*, W,	50000, 18000
         
     <Category> Grenades
-        RGD5Grenade,            *, W,      300,    100
-        M67Grenade,             *, W,      300,    100
-        M18SmokeGrenade_Red,    *, W,      300,    100
-        M18SmokeGrenade_Green,  *, W,      300,    100
-        M18SmokeGrenade_Yellow, *, W,      300,    100
-        M18SmokeGrenade_Purple, *, W,      300,    100
-        M18SmokeGrenade_White,  *, W,      300,    100
-        RDG2SmokeGrenade_Black, *, W,      300,    100
-        RDG2SmokeGrenade_White, *, W,      300,    100
-        FlashGrenade,           *, W,      300,    100
+        RGD5Grenade,            *, W,      1000,     500
+        M67Grenade,             *, W,      1000,     500
+        M18SmokeGrenade_Red,    *, W,      1000,     500
+        M18SmokeGrenade_Green,  *, W,      1000,     500
+        M18SmokeGrenade_Yellow, *, W,      1000,     500
+        M18SmokeGrenade_Purple, *, W,      1000,     500
+        M18SmokeGrenade_White,  *, W,      1000,     500
+        RDG2SmokeGrenade_Black, *, W,      1000,     500
+        RDG2SmokeGrenade_White, *, W,      1000,     500
+        FlashGrenade,           *, W,      1000,     500
 
 <OpenFile> z_WeaponSupplies.txt		// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
