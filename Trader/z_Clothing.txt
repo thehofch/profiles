@@ -224,7 +224,7 @@
         Layered_Shirt_Courage, *, *, 65, 20
         Layered_Shirt_Lily, *, *, 65, 20
 
-    <Category Shemags
+    <Category> Shemags
         Shemagh_Brown, *, *, 65, 20
         Shemagh_Green, *, *, 65, 20
         Shemagh_Red, *, *, 65, 20
@@ -388,7 +388,7 @@
         NurseDress_Blue,        *,    *,  40,     10
         NurseDress_White,       *,     *, 40,     10
 
-    <Category Ponchos
+    <Category> Ponchos
         Poncho_Red_Checkered, *, *, 65, 20
         Poncho_Blue_Checkered, *, *, 65, 20
         Poncho_Yellow_Checkered, *, *, 65, 20
