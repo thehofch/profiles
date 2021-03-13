@@ -618,39 +618,27 @@
         Sheriff_Badge, *, *, 65, 20
 
     <Category> Mount backpacks
-        FMDMountBagS, *, *, 65, 20
-        FMDMountBagRuss, *, *, 65, 20
-        FMDMountBagMTrop, *, *, 65, 20
-        FMDMountBagMBlack, *, *, 65, 20
-        FMDMountBagM, *, *, 65, 20
-        FMDMountDesertS, *, *, 65, 20
-        FMDMountBagCP, *, *, 65, 20
-        FMDMountBagBlack, *, *, 65, 20
-        FMDMountBagAT, *, *, 65, 20
-        FMDMountBagATU, *, *, 65, 20
-        FMDMountBag50RUS, *, *, 65, 20
-        FMDMountBagS3, *, *, 65, 20
-        FMDMountBagRuss3, *, *, 65, 20
-        FMDMountBagMtrop3, *, *, 65, 20
-        FMDMountBagMBlack3, *, *, 65, 20
-        FMDMountBagDesertS3, *, *, 65, 20
-        FMDMountBagCP3, *, *, 65, 20
-        FMDMountBagBlack3, *, *, 65, 20
-        FMDMountBagAT3, *, *, 65, 20
-        FMDMountBagATU3, *, *, 65, 20
-        FMDMountBag50RUS3, *, *, 65, 20
-        FMDMountBagS1K, *, *, 65, 20
-        FMDMountBagRuss1K, *, *, 65, 20
-        FMDMountBagMTrop1K, *, *, 65, 20
-        FMDMountBagMBlack1K, *, *, 65, 20
-        FMDMountBagM1K, *, *, 65, 20
-        FMDMountBagDesertS1K, *, *, 65, 20
-        FMDMountBagCP1K, *, *, 65, 20
-        FMDMountBagBlack1K, *, *, 65, 20
-        FMDMountBagAT1K, *, *, 65, 20
-        FMDMountBagATU1K, *, *, 65, 20
-        FMDMountBag50RUS1K, *, *, 65, 20
-
+        FMDMountBagS, S - 100 slots, *, 65, 20
+        FMDMountBagRuss, Russ - 100 slots, *, 65, 20
+        FMDMountBagMTrop, M Trop - 100 slots, *, 65, 20
+        FMDMountBagMBlack, M Black - 100 slots, *, 65, 20
+        FMDMountBagM, M - 100 slots, *, 65, 20
+        FMDMountBagDesertS, Desert S - 100 slots, *, 65, 20
+        FMDMountBagCP, CP - 100 slots, *, 65, 20
+        FMDMountBagBlack, Black - 100 slots, *, 65, 20
+        FMDMountBagAT, AT - 100 slots, *, 65, 20
+        FMDMountBagATU, ATU - 100 slots, *, 65, 20
+        FMDMountBag50RUS, 50 RUS - 100 slots, *, 65, 20
+        FMDMountBagS3, S - 300 slots, *, 65, 20
+        FMDMountBagRuss3, Russ - 300 slots, *, 65, 20
+        FMDMountBagMtrop3, M Trop - 300 slots, *, 65, 20
+        FMDMountBagMBlack3, M Black - 300 slots, *, 65, 20
+        FMDMountBagDesertS3, Desert S - 300 slots, *, 65, 20
+        FMDMountBagCP3, *, CP - 300 slots, 65, 20
+        FMDMountBagBlack3, Black - 300 slots, *, 65, 20
+        FMDMountBagAT3, *, AT - 300 slots, 65, 20
+        FMDMountBagATU3, *, ATU - 300 slots, 65, 20
+        FMDMountBag50RUS3, *, 50 RUS - 300 slots, 65, 20
 
 
 <OpenFile> z_Vehicles.txt			// Links to another File; Must be right above <FileEnd>!
