@@ -750,36 +750,6 @@
 		MilitaryGear_GhillieBushrag_Splinter,	*, *,		4400,	-1
 		MilitaryGear_GhillieTop_Splinter,		*, *,		10000,	-1
 		
-		
-	<Category> Military Gear | Splinter_Dark
-		MilitaryGear_BoonieHat_Splinter_Dark,		*, *,		800,		40
-		MilitaryGear_Beanie_Splinter_Dark,			*, *,		800,		40
-		MilitaryGear_TacticalHelmet_Splinter_Dark,	*, *,		1600,	80
-		MilitaryGear_Bandana_Splinter_Dark,			*, *,		800,		40
-		MilitaryGear_Balaclava3_Splinter_Dark,		*, *,		1000,	50
-		MilitaryGear_Balaclava3Skull_Splinter_Dark,	*, *,		1500,	75
-		MilitaryGear_TacticalShirt_Splinter_Dark,	*, *,		4000,	200
-		MilitaryGear_PatrolJacket_Splinter_Dark,	*, *,		4400,	220
-		MilitaryGear_FieldJacket_Splinter_Dark,		*, *,		5000,	250
-		MilitaryGear_CombatJacket_Splinter_Dark,	*, *,		5000,	250
-		MilitaryGear_TacticalPants_Splinter_Dark,	*, *,		4000,	200
-		MilitaryGear_PatrolPants_Splinter_Dark,		*, *,		4400,	220
-		MilitaryGear_FieldPants_Splinter_Dark,		*, *,		5000,	250
-		MilitaryGear_AssaultVest_Splinter_Dark,		*, *,		4400,	220
-		MilitaryGear_HighCapVest_Splinter_Dark,		*, *,		5000,	250
-		MilitaryGear_PlateCarrier_Splinter_Dark,	*, *,		5200,	260
-		MilitaryGear_AssaultBag_Splinter_Dark,		*, *,		4000,	200
-		MilitaryGear_TortillaBag_Splinter_Dark,		*, *,		4400,	220
-		MilitaryGear_CoyoteBag_Splinter_Dark,		*, *,		4400,	220
-		MilitaryGear_HuntingBag_Splinter_Dark,		*, *,		5000,	250
-		MilitaryGear_MountainBag_Splinter_Dark,		*, *,		5600,	280
-		MilitaryGear_AliceBag_Splinter_Dark,		*, *,		6000,	300
-		MilitaryGear_GhillieGunWrap_Splinter_Dark,	*, *,		2200,	-1
-		MilitaryGear_GhillieHood_Splinter_Dark,		*, *,		2200,	-1
-		MilitaryGear_GhillieBushrag_Splinter_Dark,	*, *,		4400,	-1
-		MilitaryGear_GhillieTop_Splinter_Dark,		*, *,		10000,	-1
-		MilitaryGear_GhillieSuit_Splinter_Dark,		*, *,		14000,	-1
-		
 	<Category> Military Gear | Tiger
 		MilitaryGear_BoonieHat_Tiger,		*, *,		800,		40
 		MilitaryGear_Beanie_Tiger,			*, *,		800,		40
