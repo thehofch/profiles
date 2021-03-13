@@ -1,0 +1,5 @@
+<Trader> Forex Trader
+    <Category> Currency
+        Bitcoin, *, *, 100000, 96000
+<OpenFile> z_BlackMarket.txt
+<FileEnd>

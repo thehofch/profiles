@@ -1,0 +1,34 @@
+/////////////////////////////////////////////////////////////////////////////////////////////////
+//                                                                                             //
+//      Need Help? The Trader Mod has its own Channel on the DayZ Modders Discord Server!      //
+//                                                                                             //
+//      Only Singleline Comments work. Don't use Multiline Comments!                           //
+//      /* THIS COMMENT WILL CRASH THE SERVER! */                                              //
+//      // THIS COMMENT WORKS!                                                                 //
+//                                                                                             //
+/////////////////////////////////////////////////////////////////////////////////////////////////
+
+// 1 = Therapist
+// 2 = Misc Building
+// 3 = Weapons
+// 4 = Ammo
+// 5 = Clothes
+// 6 = Cars = Gold
+
+// 7 = Forex Trader
+
+// 8 = Black Market trader
+
+// Quantity * means max value;
+// Quantity V means Vehicle;
+// Quantity VNK means Vehicle without Key;
+// Quantity M means Magazine;
+// Quantity W means Weapon;
+// Quantity S means Steack Meat;
+// Quantity K means Key Duplication
+
+<CurrencyName> IGNORE
+<Trader> IGNORE
+
+<OpenFile> z_Therapist.txt		// Links to another File; Must be right above <FileEnd>!
+<FileEnd>						// This has to be on the End of this File and is very importand!

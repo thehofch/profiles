@@ -1,0 +1,15 @@
+<Trader> Black market trader
+    <Category>Wunderwaffen
+        KOD_AWM, *, W, 5, -1
+        KOD_AX50, *, W, 15, -1
+        KOD_DVL10, *, W, 5, -1
+        KOD_DVL10M1, *, W, 5, -1
+        KOD_M82A2_Grey, *, W, 20, -1
+        KOD_M82A2_Black, *, W, 20, -1
+        KOD_M82A2_Tan, *, W, 20, -1
+        KOD_PKM, *, W, 15, -1
+        KOD_RSASS_Tan, *, W, 10, -1
+        KOD_RSASS_Black, *, W, 10, -1
+        KOD_Ruger, *, W, 5, -1
+        KOD_SCARH, *, W, 2, -1  
+        KOD_ASH12, *, W, 10, -1

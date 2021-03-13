@@ -1,0 +1,71 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "Kumyrnya Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                8357.55,
+                293.143,
+                5995.26
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Green Mountain Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                3699.27,
+                402.13,
+                5967.91
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Forex Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                15121.066406,
+                9.534022,
+                13809.273438
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Black Market Trader",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointeditor_CA.paa",
+            "M_COLOR": [
+                255.0,
+                255.0,
+                255.0
+            ],
+            "M_POSITION": [
+                259.990967,
+                187.147705,
+                6593.747070
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }
+    ],
+    "m_CanUse3DMarkers": 1,
+    "m_OwnPositionMarkerDisabled": 0,
+    "m_ForceMapItemOnly": 0
+}

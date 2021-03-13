@@ -1,0 +1,80 @@
+
+<Trader> Therapist
+    <Category> Medical Supplies
+        BandageDressing, *, 4, 100, 30
+        BloodTestKit, *, *, 100, 20
+        Thermometer, *, *, 50, 5
+        DisinfectantSpray, *, *, 850, 5
+        Heatpack, *, *, 10, 5
+        StartKitIV, *, *, 10, 6
+        SalineBag, *, *, 15, 8
+        BloodBagEmpty, *, *, 18, 10
+        FirstAidKit, *, *, 200, 20
+        Defibrillator, *, *, 5000, 3500
+        
+    <Category> Medications
+        CharcoalTablets, *, *, 10, 1
+        DisinfectantAlcohol, *, *, 50, 2
+        VitaminBottle, *, *, 100, 4
+        TetracyclineAntibiotics, *, *, 1000, 300
+        PainkillerTablets, *, *, 200, 6
+        Epinephrine, *, *, 200, 50
+        Morphine, *, *, 800, 100
+
+    <Category> Drinks
+        Cola, *, *, 150, -1
+        Cola_Cherry, *, *, 150, -1
+        Cola_Light, *, *, 150, -1
+        MonsterEnergy1, *, *, 350, -1
+        MonsterEnergy2, *, *, 350, -1
+        MonsterEnergy3, *, *, 350, -1
+        MonsterEnergy4, *, *, 350, -1
+        MonsterEnergy5, *, *, 350, -1
+        MonsterEnergy6, *, *, 350, -1
+        MonsterEnergy7, *, *, 350, -1
+        MonsterEnergy8, *, *, 350, -1
+        MTN_Dew, *, *, 150, -1
+        MTN_Dew2, *, *, 150, -1
+        Pepsi, *, *, 150, -1
+        Pepsi2, *, *, 150, -1
+        Pepsi_Light, *, *, 150, -1
+        Fanta, *, *, 150, -1
+        Sprite, *, *, 150, -1
+        Bottle_Milk, *, *, 150, -1
+        Bottle_Cola, *, *, 150, -1
+        Bottle_Pepsi, *, *, 150, -1
+    <Category> Food
+        BlackOlivesCan, * , *, 400, -1
+        CookedSpinachCan, * , *, 400, -1
+        FavabeansCan, * , *, 400, -1
+        FruitcocktailCan, * , *, 400, -1
+        GreenbeansCan, * , *, 400, -1
+        KidneybeansCan, * , *, 400, -1
+        SlicedbeetsCan, * , *, 400, -1
+        SlicedpineappleCan, * , *, 400, -1
+    <Category> Vegetables & fruits
+        CaninaBerry, *, *, 111, -1
+        SambucusBerry,  *,  *, 100, -1
+        Plum, *, *, 100, 50
+        Kiwi, *, *, 100, 50
+        Apple, *, *, 100, 50
+        Pear, *, *, 100, 50
+        Orange, *, *, 100, 50
+        Banana, *, *, 100, 50
+        Tomato, *, *, 100, 50
+        Potato, *, *, 100, 50
+        GreenBellPepper, *, *, 100, 50
+        Zucchini, *, *, 300, 100
+        Pumpkin, *, *, 800, 300
+    <Category> Mushrooms
+        AgaricusMushroom, *, *, 2000, 1000
+        AmanitaMushroom, *, *, 2000, 1000
+        LactariusMushroom, *, *, 2000, 1000
+        MacrolepiotaMushroom, *, *, 2000, 1000
+        PsilocybeMushroom, *, *, 2000, 1000
+        AuriculariaMushroom, *, *, 2000, 1000
+        BoletusMushroom, *, *, 2000, 1000
+        PleurotusMushroom, *, *, 2000, 1000 
+
+<OpenFile> z_Builder.txt		// Links to another File; Must be right above <FileEnd>!
+<FileEnd>						// This has to be on the End of this File and is very importand!

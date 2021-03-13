@@ -1,0 +1,10 @@
+<Trader> Builder Trader
+    <Category> Tools (small)                                                                  
+        Screwdriver, *, *, 15000, 5000
+        Wrench, *, *, 15000, 5000
+        SewingKit, *, *, 5000, 1000
+        Pliers, *, *, 25000, 11000
+        LeatherSewingKit, *, *, 5000, 1000
+
+<OpenFile> z_Weapons.txt		// Links to another File; Must be right above <FileEnd>!
+<FileEnd>						// This has to be on the End of this File and is very importand!
