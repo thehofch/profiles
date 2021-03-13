@@ -1,0 +1,125 @@
+<Trader> Misc Trader
+    <Category> Tools (small)
+        Screwdriver,            *, *,      3,      1
+        Wrench,                 *, *,      3,      1
+        SewingKit,              *, *,      4,      1
+        Pliers,                 *, *,      4,      1
+        LeatherSewingKit,       *, *,      5,      2
+        Whetstone,              *, *,      5,      2
+        Hammer,                 *, *,      7,      3
+        Hacksaw,                *, *,      7,      3
+        HandSaw,                *, *,      7,      3
+        WeaponCleaningKit,      *, *,      8,      3
+        KitchenKnife,           *, *,      8,      4
+        SteakKnife,             *, *,      9,      4
+        HuntingKnife,           *, *,      9,      4
+        CanOpener,              *, *,      10,     4
+        Compass,                *, *,      10,     4
+        OrienteeringCompass,    *, *,      10,     4
+        Hatchet,                *, *,      10,     4
+        CombatKnife,            *, *,      10,     5
+        Machete,                *, *,      12,     6   
+        ChernarusMap,           *, *,      15,     5
+        Lockpick,               *, *,      20,     10
+        Binoculars,             *, *,      30,     15      
+        FishingRod,             *, *,      60,     25
+        
+    <Category> Tools (big)
+        LugWrench,              *, *,      4,      1
+        Crowbar,                *, *,      5,      3
+        Shovel,                 *, *,      6,      3
+        Pickaxe,                *, *,      10,     4
+        SledgeHammer,           *, *,      12,     6
+        PipeWrench,             *, W,     15,     7
+        WoodAxe,                *, *,      20,     8
+        FirefighterAxe,         *, *,      30,     12
+        
+    <Category> Electronics
+        Battery9V,              *, *,      8,      3
+        PersonalRadio,          *, *,      10,     5
+        Megaphone,              *, *,      30,     15
+        ElectronicRepairKit,    *, *,      35,     17
+        CableReel,              *, *,      40,     20
+        BatteryCharger,         *, *,      40,     20
+        BaseRadio,              *, *,      50,     30
+        Rangefinder,            *, *,      60,     35
+        NVGoggles,              *, *,      400,    220
+    
+    <Category> Fire & Lights
+        Chemlight_Blue,         *, *,      2,      1
+        Chemlight_Green,        *, *,      2,      1
+        Chemlight_Red,          *, *,      2,      1
+        Chemlight_White,        *, *,      2,      1
+        Chemlight_Yellow,       *, *,      2,      1
+        Roadflare,              *, *,      4,      2
+        Matchbox,               *, *,      6,      3
+        Flashlight,             *, *,      15,     5
+        PortableGasLamp,        *, *,      25,     10
+        PortableGasStove,       *, *,      30,     15
+        Headtorch_Black,        *, *,      40,     20
+        Headtorch_Grey,         *, *,      40,     20
+        Spotlight,              *, *,      600,    200
+    
+    <Category> Cooking & Hunting Supplies
+        PurificationTablets,    *, *,      5,      2
+        Pot,                    *, M,     25,     10
+        Tripod,                 *, *,      35,     15
+        BearTrap,               *, *,      50,     30
+    
+    <Category> Hardware Supplies
+        Paper,                  *, *,      1,      0
+        Pen_Blue,               *, *,      2,      1
+        Rope,                   *, *,      4,      1
+        TannedLeather,          *, *,      4,      1
+        AntiPestsSpray,         *, *,      8,      4
+        MetalWire,              *, *,      15,     6
+        EpoxyPutty,             *, *,      15,     6
+        DuctTape,               *, *,      20,     8
+        XmasLights,             *, *,      25,     10
+        HandcuffKeys,           *, *,      35,     12
+        Handcuffs,              *, *,      50,     15
+        Netting,                *, 1,      50,     10
+        BurlapSack,             *, *,      50,     10
+        WoodenPlank,            *, 10,     50,     15
+        MetalPlate,             *, *,      60,     18
+        SmallProtectorCase,     *, *,      70,     30
+        AmmoBox,                *, *,      80,     35
+        SmallGasCanister,       *, *,      80,     35
+        MediumGasCanister,      *, *,      100,    40
+        LargeGasCanister,       *, *,      200,    70
+        CanisterGasoline,       *, *,      300,    80
+        NailBox,                *, *,      300,    120
+        BarbedWire,             *, *,      450,    200
+        Camonet,                *, *,      600,    250
+        HescoBox,               *, *,      650,    250
+        CombinationLock,        *, *,      700,    300
+        CombinationLock4,       *, *,      900,    400
+        BarrelHoles_Blue,       *, *,      800,    300
+        BarrelHoles_Green,      *, *,      800,    300
+        BarrelHoles_Red,        *, *,      800,    300
+        BarrelHoles_Yellow,     *, *,      800,    300
+        Barrel_Blue,            *, M,      1500,   350
+        Barrel_Green,           *, M,      1500,   350
+        Barrel_Red,             *, M,      1500,   350
+        Barrel_Yellow,          *, M,      1500,   350
+        SeaChest,               *, *,      2000,   400
+        PowerGenerator,         *, *,      3000,   1000
+        MediumTent,             *, *,      3000,   500     
+        CarTent,                *, *,      5000,   700
+        LargeTent,              *, *,      7000,   1200
+    
+    <Category> Seeds & Lime
+        TomatoSeedsPack,        *, *,      4,      1
+        PepperSeedsPack,        *, *,      4,      1
+        ZucchiniSeedsPack,      *, *,      6,      2
+        PumpkinSeedsPack,       *, *,      10,     3
+        GardenLime,             *, *,      20,     7
+        
+    <Category> Fluffy Pets <3
+        Bear_Beige,             *, *,      5,      1
+        Bear_Dark,              *, *,      5,      1
+        Bear_Pink,              *, *,      5,      1
+        Bear_White,             *, *,      5,      1
+
+<OpenFile> z_Weapons.txt		// Links to another File; Must be right above <FileEnd>!
+<FileEnd>						// This has to be on the End of this File and is very importand!

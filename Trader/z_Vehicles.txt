@@ -14,6 +14,9 @@
         CivilianSedan, *, VNK, 70000, -1
         CivilianSedan_Wine, *, VNK, 70000, -1
         CivilianSedan_Black, *, VNK, 70000, -1
+        Truck_01_Covered,           Святаго Хабаровозка, VNK,      900000,  300000
+        Truck_01_Covered_Blue,      Святаго Хабаровозка, VNK,      900000,  300000
+        Truck_01_Covered_Orange,    Святаго Хабаровозка, VNK,      900000,  300000
 
     <Category> Vehicle Parts
         HeadlightH7_Box, *, *,      100,     15
