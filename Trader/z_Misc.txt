@@ -124,5 +124,39 @@
         Bear_Pink,              *, *,      50,      10
         Bear_White,             *, *,      50,      10
 
+    <Category> Military Gear | Large Tents
+		MilitaryGear_LargeTent_ATACS,			*, *, 		70000,		12000
+		MilitaryGear_LargeTent_CADPAT,			*, *, 		70000,		12000
+		MilitaryGear_LargeTent_DPM,				*, *, 		70000,		12000
+		MilitaryGear_LargeTent_Duckhunter,		*, *, 		70000,		12000
+		MilitaryGear_LargeTent_FLT,				*, *, 		70000,		12000
+		MilitaryGear_LargeTent_MPAT,			*, *, 		70000,		12000
+		MilitaryGear_LargeTent_Multicam,		*, *, 		70000,		12000
+		MilitaryGear_LargeTent_Partizan,		*, *, 		70000,		12000
+		MilitaryGear_LargeTent_PartizanM,		*, *, 		70000,		12000
+		MilitaryGear_LargeTent_Skol,			*, *, 		70000,		12000
+		MilitaryGear_LargeTent_Splinter,		*, *, 		70000,		12000
+		MilitaryGear_LargeTent_Tiger,			*, *, 		70000,		12000
+		MilitaryGear_LargeTent_Tropic,			*, *, 		70000,		12000
+		MilitaryGear_LargeTent_Woodland,		*, *, 		70000,		12000
+		MilitaryGear_LargeTent_Yeger,			*, *, 		70000,		12000
+		
+	<Category> Military Gear | Car Tents
+		MilitaryGear_CarTent_ATACS,			*, *, 		50000,		7000
+		MilitaryGear_CarTent_CADPAT,		*, *, 		50000,		7000
+		MilitaryGear_CarTent_DPM,			*, *, 		50000,		7000
+		MilitaryGear_CarTent_Duckhunter,	*, *, 		50000,		7000
+		MilitaryGear_CarTent_FLT,			*, *, 		50000,		7000
+		MilitaryGear_CarTent_MPAT,			*, *, 		50000,		7000
+		MilitaryGear_CarTent_Multicam,		*, *, 		50000,		7000
+		MilitaryGear_CarTent_Partizan,		*, *, 		50000,		7000
+		MilitaryGear_CarTent_PartizanM,		*, *, 		50000,		7000
+		MilitaryGear_CarTent_Skol,			*, *, 		50000,		7000
+		MilitaryGear_CarTent_Splinter,		*, *, 		50000,		7000
+		MilitaryGear_CarTent_Tiger,			*, *, 		50000,		7000
+		MilitaryGear_CarTent_Tropic,		*, *, 		50000,		7000
+		MilitaryGear_CarTent_Woodland,		*, *, 		50000,		7000
+		MilitaryGear_CarTent_Yeger,			*, *, 		50000,		7000
+
 <OpenFile> z_Weapons.txt		// Links to another File; Must be right above <FileEnd>!
 <FileEnd>						// This has to be on the End of this File and is very importand!
