@@ -486,6 +486,8 @@
         Adidas_Leggings, *, *, 65, 20
         Red_Leggings, *, *, 65, 20
         Purple_Leggings, *, *, 65, 20
+        Kneepads_Jeans_Base, *, *, 65, 20
+        Kneepads_Jeans_Black, *, *, 65, 20
     
     <Category> Shoes & Boots
         AthleticShoes_Blue,     *, *,      17,     4

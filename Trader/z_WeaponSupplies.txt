@@ -26,10 +26,11 @@
         KOD_Ammo_50BMG,         *, 1,       1000,    500
         KOD_Ammo_40lw,          *, 1,       700,     350
         KOD_Ammo_792x57,        *, 1,       150,     75
-        Ammo_50CalBW,           *, 1,		900,     450
+        Ammo_50CalBW,           *, 1,		300,     150
         Ammo_57x28,             *, 1,       45,      22
         Ammo_57x28AP,           *, 1,       55,      27
         Ammo_9x18,              *, 1,       8,       4
+        Ammo_AACBLK             *, 1,       40,      20
 
         // When changing Prices here keep in Mind that Players
         // can just unpack the Ammoboxes and sell the Ammo seperatly!
@@ -58,6 +59,7 @@
         57x28_AmmoBox_25rnd,            *, *,      1125,    562
         57x28AP_AmmoBox_25rnd,          *, *,      1375,    687
         9x18_AmmoBox_35rnd,             *, *,      280,     140
+        AACBLK_AmmoBox_20rnd            *, *,      600,     300
         
     <Category> Magazines
         Mag_CZ75_15Rnd,                         *, M,       1000,     500
@@ -128,6 +130,10 @@
         FOX_Mag_FAL_30rnd,                      *, M,       3100,     750
         FOX_Mag_Stanag_60rnd,                   *, M,       4500,     2250
         FOX_Mag_Stanag_60rnd_Black,             *, M,       4600,     2300
+        FOX_Mag_HB_30rnd,                       *, M,       3100,     750
+        FOX_Mag_HB_30rnd_brown,                 *, M,       3100,     750
+        FOX_Mag_HB_30rnd_green,                 *, M,       3100,     750
+        FOX_Mag_HB_30rnd_gray,                  *, M,       3100,     750
         
     <Category> Handguards
         MP5_PlasticHndgrd,            *, *,      2000,   1000
