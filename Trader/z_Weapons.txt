@@ -28,6 +28,7 @@
         CZ527,                  *, W,      500,    250
         Winchester70,           *, W,      500,    250
         SKS,                    *, W,      600,    300
+        Ruger1022,              *, W,      600,    300
 
         
     <Category> Shotguns
