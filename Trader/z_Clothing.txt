@@ -617,6 +617,41 @@
         Button_Pin_Daisy, *, *, 65, 20
         Sheriff_Badge, *, *, 65, 20
 
+    <Category> Mount backpacks
+        FMDMountBagS, *, *, 65, 20
+        FMDMountBagRuss, *, *, 65, 20
+        FMDMountBagMTrop, *, *, 65, 20
+        FMDMountBagMBlack, *, *, 65, 20
+        FMDMountBagM, *, *, 65, 20
+        FMDMountDesertS, *, *, 65, 20
+        FMDMountBagCP, *, *, 65, 20
+        FMDMountBagBlack, *, *, 65, 20
+        FMDMountBagAT, *, *, 65, 20
+        FMDMountBagATU, *, *, 65, 20
+        FMDMountBag50RUS, *, *, 65, 20
+        FMDMountBagS3, *, *, 65, 20
+        FMDMountBagRuss3, *, *, 65, 20
+        FMDMountBagMtrop3, *, *, 65, 20
+        FMDMountBagMBlack3, *, *, 65, 20
+        FMDMountBagDesertS3, *, *, 65, 20
+        FMDMountBagCP3, *, *, 65, 20
+        FMDMountBagBlack3, *, *, 65, 20
+        FMDMountBagAT3, *, *, 65, 20
+        FMDMountBagATU3, *, *, 65, 20
+        FMDMountBag50RUS3, *, *, 65, 20
+        FMDMountBagS1K, *, *, 65, 20
+        FMDMountBagRuss1K, *, *, 65, 20
+        FMDMountBagMTrop1K, *, *, 65, 20
+        FMDMountBagMBlack1K, *, *, 65, 20
+        FMDMountBagM1K, *, *, 65, 20
+        FMDMountBagDesertS1K, *, *, 65, 20
+        FMDMountBagCP1K, *, *, 65, 20
+        FMDMountBagBlack1K, *, *, 65, 20
+        FMDMountBagAT1K, *, *, 65, 20
+        FMDMountBagATU1K, *, *, 65, 20
+        FMDMountBag50RUS1K, *, *, 65, 20
+
+
 
 <OpenFile> z_Vehicles.txt			// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
