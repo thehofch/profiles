@@ -619,6 +619,52 @@
         Button_Pin_Daisy, *, *, 100, 50
         Sheriff_Badge, *, *, 100, 50
 
+    <Category> Chopper Items
+		Chopper_BeanieHat_Black_IronMaiden,					*, *,		5000,		1500
+		Chopper_BeanieHat_Black_Slayer,						*, *,		5000,		1500
+		Chopper_RidersJacket_Slayer_HellAwaits,				*, *,		8000,		5000
+		Chopper_DenimJacket_Battle,							*, *,		7000,		4000
+		Chopper_Hoodie_Black_LedZeppelin,					*, *,		6000,		3000
+		Chopper_Hoodie_Black_Misfits,						*, *,		6000,		3000
+		Chopper_Hoodie_Black_Slipknot,						*, *,		6000,		3000
+		Chopper_Hoodie_Black_Tool,							*, *,		6000,		3000
+		Chopper_TShirt_White_OperationIvy,					*, *,		3000,		1000
+		Chopper_TShirt_Black_Nirvana,						*, *,		3000,		1000
+		Chopper_TShirt_Black_CannibalCorpse_Butchered,		*, *,		3000,		1000
+		Chopper_TShirt_Black_IronMaiden_Killers,			*, *,		3000,		1000
+		Chopper_TShirt_Black_Metallica_KillEmAll,			*, *,		3000,		1000
+		Chopper_TShirt_Black_Pantera_Vulgar,				*, *,		3000,		1000
+		Chopper_TShirt_Black_PinkFloyd_DarkSide,			*, *,		3000,		1000
+		Chopper_TShirt_Black_Sepultura_Arise,				*, *,		3000,		1000
+		Chopper_TShirt_Black_BlackSabbath,					*, *,		3000,		1000
+		Chopper_TShirt_Black_Death,							*, *,		3000,		1000
+		Chopper_TShirt_Black_SpiceGirls,					*, *,		3000,		1000
+		Chopper_MiniDress_Black,							*, *,		12000,	    6000
+		Chopper_MiniDress_White,							*, *,		12000,	    6000
+		Chopper_MiniDress_Red,								*, *,		12000,	    6000
+		Chopper_MiniDress_Silver,							*, *,		12000,	    6000
+		Chopper_MiniDress_Black_GnR,						*, *,		12000,	    6000
+		Chopper_MiniDress_Black_Megadeth,					*, *,		12000,	    6000
+		Chopper_MiniDress_White_Motorhead,					*, *,		12000,	    6000
+		Chopper_Skirt_Black,								*, *,		5000,		1500
+		Chopper_ShortJeans_Black,							*, *,		5000,		1500
+		Chopper_ShortJeans_Gold,							*, *,		5000,		1500
+		Chopper_ShortJeans_Silver,							*, *,		5000,		1500
+		Chopper_Hoodie_Black_ACDC,							*, *,		6000,		3000
+		Chopper_Hoodie_Red_BeastieBoys,						*, *,		6000,		3000
+		Chopper_TShirt_Black_DawnOfTheDead,					*, *,		3000,		1000
+		Chopper_TShirt_Black_JurassicPark,					*, *,		3000,		1000
+		Chopper_TShirt_Black_NWA,							*, *,		3000,		1000
+		Chopper_TShirt_White_ImWithStupid,					*, *,		3000,		1000
+		Chopper_TShirt_Prepper,								*, *,		3000,		1000
+		Chopper_TShirt_Black_PhilCollins,					*, *,		3000,		1000
+		Chopper_TShirt_White_BarryManilow,					*, *,		3000,		1000
+		Chopper_Skirt_Pink,									*, *,		5000,		1500
+		Chopper_NurseDress_White,							*, *,		12000,	    6000
+		Chopper_NurseBoots_White,							*, *,		7000,		4000
+		Chopper_LongGloves_White,							*, *,		4000,		2000
+
+
     
     <Category> Military Gear | Other
 		MilitaryGear_Bandana_Black,				*, *,		800,		400
