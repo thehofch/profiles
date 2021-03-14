@@ -30,7 +30,7 @@
         Winchester70,           *, W,      9000,   4500
         SKS,                    *, W,      9000,   4500
         Ruger1022,              *, W,      9000,   4500
-        B95б,                   *, W,      9000,   4500
+        B95,                    *, W,      9000,   4500
 
         
     <Category> Shotguns
@@ -136,7 +136,7 @@
         RDG2SmokeGrenade_Black, *, W,      1000,     500
         RDG2SmokeGrenade_White, *, W,      1000,     500
         FlashGrenade,           *, W,      1000,     500
-        LandMineTrap            *, W,      2000,     1000
+        LandMineTrap,           *, W,      2000,     1000
 
 <OpenFile> z_WeaponSupplies.txt		// Links to another File; Must be right above <FileEnd>!
 <FileEnd>							// This has to be on the End of this File and is very importand!
