@@ -124,6 +124,10 @@
         Bear_Pink,              *, *,      50,      10
         Bear_White,             *, *,      50,      10
 
+    <Category> Coffins
+        Chopper_Coffin,			*, *,		300000,	100000
+		Chopper_Coffin_2,		*, *,		300000,	100000
+
     <Category> Military Gear | Large Tents
 		MilitaryGear_LargeTent_ATACS,			*, *, 		70000,		12000
 		MilitaryGear_LargeTent_CADPAT,			*, *, 		70000,		12000
