@@ -42,6 +42,7 @@
         Bottle_Milk, *, *, 150, -1
         Bottle_Cola, *, *, 150, -1
         Bottle_Pepsi, *, *, 150, -1
+        Vodka, *, *, 8000, -1
     <Category> Food
         BlackOlivesCan, * , *, 400, -1
         CookedSpinachCan, * , *, 400, -1

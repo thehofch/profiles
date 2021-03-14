@@ -29,7 +29,7 @@
         Winchester70,           *, W,      9000,   4500
         SKS,                    *, W,      9000,   4500
         Ruger1022,              *, W,      9000,   4500
-        B95                     *, W,      9000,   4500
+        B95б                    *, W,      9000,   4500
 
         
     <Category> Shotguns
