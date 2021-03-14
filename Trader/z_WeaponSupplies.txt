@@ -118,6 +118,7 @@
         FOX_Mag_PM,                             *, M,       500,      250
         FOX_Mag_MP443,                          *, M,       1000,     500
         FOX_Mag_ASVAL_20Rnd,                    *, M,       2500,     1250
+        Mag_VAL_20Rnd,                          *, M,       2500,     1250
         FOX_Mag_FN57_20Rnd,                     *, M,       2400,     1200
         FOX_Mag_FN57_30Rnd,                     *, M,       3000,     1500
         FOX_Mag_EVO,                            *, M,       1900,     950
