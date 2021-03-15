@@ -14,9 +14,6 @@
         CivilianSedan, *, VNK, 70000, -1
         CivilianSedan_Wine, *, VNK, 70000, -1
         CivilianSedan_Black, *, VNK, 70000, -1
-        Truck_01_Covered,           Святаго Хабаровозка, VNK,      900000,  300000
-        Truck_01_Covered_Blue,      Святаго Хабаровозка, VNK,      900000,  300000
-        Truck_01_Covered_Orange,    Святаго Хабаровозка, VNK,      900000,  300000
 
     <Category> Vehicle Parts
         HeadlightH7_Box, *, *,      100,     15
@@ -162,17 +159,6 @@
         CivSedanDoors_BackRight_WineRust,   *, *,      3550,    2660
         CivSedanDoors_BackRight_BlackRust,  *, *,      3550,    2660
         CivSedanWheel,                      *, *,      3100,    2500
-        Truck_01_Hood,                      *, *,      4000,    3000
-        Truck_01_Hood_Blue,                 *, *,      4000,    3000
-        Truck_01_Hood_Orange,               *, *,      4000,    3000
-        Truck_01_Door_1_1,                  *, *,      5000,    3800
-        Truck_01_Door_1_1_Blue,             *, *,      5000,    3800
-        Truck_01_Door_1_1_Orange,           *, *,      5000,    3800
-        Truck_01_Door_2_1,                  *, *,      5000,    3800
-        Truck_01_Door_2_1_Blue,             *, *,      5000,    3800
-        Truck_01_Door_2_1_Orange,           *, *,      5000,    3800
-        Truck_01_Wheel,                     *, *,      6000,    4000
-        Truck_01_WheelDouble,               *, *,      12000,   8500
 
 <OpenFile> z_Forex.txt
 <FileEnd>							// This has to be on the End of this File and is very importand!
